@@ -1,0 +1,4303 @@
+{
+  "PdII__C1-10__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 72.7664,
+    "outer_radius_angstrom": 36.3832,
+    "limiting_atom_1": {
+      "index": 205,
+      "element": "O"
+    },
+    "limiting_atom_2": {
+      "index": 1316,
+      "element": "O"
+    },
+    "num_atoms": 2436,
+    "cage_name": "PdII__C1-10__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-10",
+    "node": "PdII",
+    "linker": "C1-10",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-10__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 72.4612,
+    "outer_radius_angstrom": 36.2306,
+    "limiting_atom_1": {
+      "index": 407,
+      "element": "O"
+    },
+    "limiting_atom_2": {
+      "index": 1619,
+      "element": "O"
+    },
+    "num_atoms": 2436,
+    "cage_name": "PdII__C1-10__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-10",
+    "node": "PdII",
+    "linker": "C1-10",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-10__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 48.8217,
+    "outer_radius_angstrom": 24.4109,
+    "limiting_atom_1": {
+      "index": 94,
+      "element": "O"
+    },
+    "limiting_atom_2": {
+      "index": 195,
+      "element": "O"
+    },
+    "num_atoms": 406,
+    "cage_name": "PdII__C1-10__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-10",
+    "node": "PdII",
+    "linker": "C1-10",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-10__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 61.9727,
+    "outer_radius_angstrom": 30.9864,
+    "limiting_atom_1": {
+      "index": 401,
+      "element": "O"
+    },
+    "limiting_atom_2": {
+      "index": 704,
+      "element": "O"
+    },
+    "num_atoms": 1218,
+    "cage_name": "PdII__C1-10__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-10",
+    "node": "PdII",
+    "linker": "C1-10",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-11__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 62.6993,
+    "outer_radius_angstrom": 31.3496,
+    "limiting_atom_1": {
+      "index": 776,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1051,
+      "element": "H"
+    },
+    "num_atoms": 2316,
+    "cage_name": "PdII__C1-11__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-11",
+    "node": "PdII",
+    "linker": "C1-11",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-11__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 63.1993,
+    "outer_radius_angstrom": 31.5997,
+    "limiting_atom_1": {
+      "index": 1160,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1627,
+      "element": "H"
+    },
+    "num_atoms": 2316,
+    "cage_name": "PdII__C1-11__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-11",
+    "node": "PdII",
+    "linker": "C1-11",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-11__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 33.1662,
+    "outer_radius_angstrom": 16.5831,
+    "limiting_atom_1": {
+      "index": 285,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 381,
+      "element": "H"
+    },
+    "num_atoms": 386,
+    "cage_name": "PdII__C1-11__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-11",
+    "node": "PdII",
+    "linker": "C1-11",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-11__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 50.8192,
+    "outer_radius_angstrom": 25.4096,
+    "limiting_atom_1": {
+      "index": 949,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1045,
+      "element": "H"
+    },
+    "num_atoms": 1158,
+    "cage_name": "PdII__C1-11__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-11",
+    "node": "PdII",
+    "linker": "C1-11",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-12__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 70.919,
+    "outer_radius_angstrom": 35.4595,
+    "limiting_atom_1": {
+      "index": 368,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 2097,
+      "element": "H"
+    },
+    "num_atoms": 3204,
+    "cage_name": "PdII__C1-12__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-12",
+    "node": "PdII",
+    "linker": "C1-12",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-12__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 70.9326,
+    "outer_radius_angstrom": 35.4663,
+    "limiting_atom_1": {
+      "index": 104,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 2895,
+      "element": "H"
+    },
+    "num_atoms": 3204,
+    "cage_name": "PdII__C1-12__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-12",
+    "node": "PdII",
+    "linker": "C1-12",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-12__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 47.9124,
+    "outer_radius_angstrom": 23.9562,
+    "limiting_atom_1": {
+      "index": 358,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 491,
+      "element": "H"
+    },
+    "num_atoms": 534,
+    "cage_name": "PdII__C1-12__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-12",
+    "node": "PdII",
+    "linker": "C1-12",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-12__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 60.8562,
+    "outer_radius_angstrom": 30.4281,
+    "limiting_atom_1": {
+      "index": 96,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 761,
+      "element": "H"
+    },
+    "num_atoms": 1602,
+    "cage_name": "PdII__C1-12__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-12",
+    "node": "PdII",
+    "linker": "C1-12",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-13__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 69.1363,
+    "outer_radius_angstrom": 34.5682,
+    "limiting_atom_1": {
+      "index": 2881,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 4072,
+      "element": "O"
+    },
+    "num_atoms": 4092,
+    "cage_name": "PdII__C1-13__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-13",
+    "node": "PdII",
+    "linker": "C1-13",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-13__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 71.3028,
+    "outer_radius_angstrom": 35.6514,
+    "limiting_atom_1": {
+      "index": 94,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 3732,
+      "element": "O"
+    },
+    "num_atoms": 4092,
+    "cage_name": "PdII__C1-13__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-13",
+    "node": "PdII",
+    "linker": "C1-13",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-13__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 48.2911,
+    "outer_radius_angstrom": 24.1456,
+    "limiting_atom_1": {
+      "index": 431,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 601,
+      "element": "H"
+    },
+    "num_atoms": 682,
+    "cage_name": "PdII__C1-13__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-13",
+    "node": "PdII",
+    "linker": "C1-13",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-13__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 62.4294,
+    "outer_radius_angstrom": 31.2147,
+    "limiting_atom_1": {
+      "index": 665,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1175,
+      "element": "H"
+    },
+    "num_atoms": 2046,
+    "cage_name": "PdII__C1-13__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-13",
+    "node": "PdII",
+    "linker": "C1-13",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-14__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 85.4531,
+    "outer_radius_angstrom": 42.7265,
+    "limiting_atom_1": {
+      "index": 2787,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 3231,
+      "element": "H"
+    },
+    "num_atoms": 3564,
+    "cage_name": "PdII__C1-14__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-14",
+    "node": "PdII",
+    "linker": "C1-14",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-14__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 85.0762,
+    "outer_radius_angstrom": 42.5381,
+    "limiting_atom_1": {
+      "index": 1751,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 2491,
+      "element": "H"
+    },
+    "num_atoms": 3564,
+    "cage_name": "PdII__C1-14__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-14",
+    "node": "PdII",
+    "linker": "C1-14",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-14__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 62.0807,
+    "outer_radius_angstrom": 31.0403,
+    "limiting_atom_1": {
+      "index": 409,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 557,
+      "element": "H"
+    },
+    "num_atoms": 594,
+    "cage_name": "PdII__C1-14__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-14",
+    "node": "PdII",
+    "linker": "C1-14",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-14__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 74.0432,
+    "outer_radius_angstrom": 37.0216,
+    "limiting_atom_1": {
+      "index": 265,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 709,
+      "element": "H"
+    },
+    "num_atoms": 1782,
+    "cage_name": "PdII__C1-14__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-14",
+    "node": "PdII",
+    "linker": "C1-14",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-15__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 86.4933,
+    "outer_radius_angstrom": 43.2467,
+    "limiting_atom_1": {
+      "index": 1796,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 2271,
+      "element": "H"
+    },
+    "num_atoms": 2868,
+    "cage_name": "PdII__C1-15__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-15",
+    "node": "PdII",
+    "linker": "C1-15",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-15__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 62.1165,
+    "outer_radius_angstrom": 31.0582,
+    "limiting_atom_1": {
+      "index": 358,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 477,
+      "element": "H"
+    },
+    "num_atoms": 478,
+    "cage_name": "PdII__C1-15__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-15",
+    "node": "PdII",
+    "linker": "C1-15",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-15__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 73.3945,
+    "outer_radius_angstrom": 36.6972,
+    "limiting_atom_1": {
+      "index": 362,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1193,
+      "element": "H"
+    },
+    "num_atoms": 1434,
+    "cage_name": "PdII__C1-15__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-15",
+    "node": "PdII",
+    "linker": "C1-15",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-16__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 54.1521,
+    "outer_radius_angstrom": 27.076,
+    "limiting_atom_1": {
+      "index": 137,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 863,
+      "element": "H"
+    },
+    "num_atoms": 1596,
+    "cage_name": "PdII__C1-16__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-16",
+    "node": "PdII",
+    "linker": "C1-16",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-16__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 54.0653,
+    "outer_radius_angstrom": 27.0327,
+    "limiting_atom_1": {
+      "index": 71,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1457,
+      "element": "H"
+    },
+    "num_atoms": 1596,
+    "cage_name": "PdII__C1-16__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-16",
+    "node": "PdII",
+    "linker": "C1-16",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-16__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 32.6677,
+    "outer_radius_angstrom": 16.3338,
+    "limiting_atom_1": {
+      "index": 66,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 127,
+      "element": "H"
+    },
+    "num_atoms": 266,
+    "cage_name": "PdII__C1-16__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-16",
+    "node": "PdII",
+    "linker": "C1-16",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-16__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 44.1713,
+    "outer_radius_angstrom": 22.0856,
+    "limiting_atom_1": {
+      "index": 263,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 461,
+      "element": "H"
+    },
+    "num_atoms": 798,
+    "cage_name": "PdII__C1-16__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-16",
+    "node": "PdII",
+    "linker": "C1-16",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-18__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 66.8091,
+    "outer_radius_angstrom": 33.4046,
+    "limiting_atom_1": {
+      "index": 807,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1650,
+      "element": "H"
+    },
+    "num_atoms": 4068,
+    "cage_name": "PdII__C1-18__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-18",
+    "node": "PdII",
+    "linker": "C1-18",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-18__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 66.3538,
+    "outer_radius_angstrom": 33.1769,
+    "limiting_atom_1": {
+      "index": 1161,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 2344,
+      "element": "H"
+    },
+    "num_atoms": 4068,
+    "cage_name": "PdII__C1-18__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-18",
+    "node": "PdII",
+    "linker": "C1-18",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-18__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 37.4291,
+    "outer_radius_angstrom": 18.7145,
+    "limiting_atom_1": {
+      "index": 436,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 622,
+      "element": "H"
+    },
+    "num_atoms": 678,
+    "cage_name": "PdII__C1-18__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-18",
+    "node": "PdII",
+    "linker": "C1-18",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-18__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 55.5427,
+    "outer_radius_angstrom": 27.7713,
+    "limiting_atom_1": {
+      "index": 1493,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 2000,
+      "element": "H"
+    },
+    "num_atoms": 2034,
+    "cage_name": "PdII__C1-18__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-18",
+    "node": "PdII",
+    "linker": "C1-18",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 36.5383,
+    "outer_radius_angstrom": 18.2691,
+    "limiting_atom_1": {
+      "index": 206,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 356,
+      "element": "H"
+    },
+    "num_atoms": 732,
+    "cage_name": "PdII__C1-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-1",
+    "node": "PdII",
+    "linker": "C1-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 36.6361,
+    "outer_radius_angstrom": 18.318,
+    "limiting_atom_1": {
+      "index": 116,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 476,
+      "element": "H"
+    },
+    "num_atoms": 732,
+    "cage_name": "PdII__C1-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-1",
+    "node": "PdII",
+    "linker": "C1-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 16.856,
+    "outer_radius_angstrom": 8.428,
+    "limiting_atom_1": {
+      "index": 76,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 106,
+      "element": "H"
+    },
+    "num_atoms": 122,
+    "cage_name": "PdII__C1-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-1",
+    "node": "PdII",
+    "linker": "C1-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 26.948,
+    "outer_radius_angstrom": 13.474,
+    "limiting_atom_1": {
+      "index": 110,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 200,
+      "element": "H"
+    },
+    "num_atoms": 366,
+    "cage_name": "PdII__C1-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-1",
+    "node": "PdII",
+    "linker": "C1-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-22__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 124.0274,
+    "outer_radius_angstrom": 62.0137,
+    "limiting_atom_1": {
+      "index": 1342,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 2767,
+      "element": "H"
+    },
+    "num_atoms": 6852,
+    "cage_name": "PdII__C1-22__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-22",
+    "node": "PdII",
+    "linker": "C1-22",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-22__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 123.4115,
+    "outer_radius_angstrom": 61.7057,
+    "limiting_atom_1": {
+      "index": 1057,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 4477,
+      "element": "H"
+    },
+    "num_atoms": 6852,
+    "cage_name": "PdII__C1-22__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-22",
+    "node": "PdII",
+    "linker": "C1-22",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-22__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 101.5789,
+    "outer_radius_angstrom": 50.7895,
+    "limiting_atom_1": {
+      "index": 762,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1047,
+      "element": "H"
+    },
+    "num_atoms": 1142,
+    "cage_name": "PdII__C1-22__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-22",
+    "node": "PdII",
+    "linker": "C1-22",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-22__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 113.5642,
+    "outer_radius_angstrom": 56.7821,
+    "limiting_atom_1": {
+      "index": 2476,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 3331,
+      "element": "H"
+    },
+    "num_atoms": 3426,
+    "cage_name": "PdII__C1-22__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-22",
+    "node": "PdII",
+    "linker": "C1-22",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-23__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 117.8846,
+    "outer_radius_angstrom": 58.9423,
+    "limiting_atom_1": {
+      "index": 447,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 3252,
+      "element": "H"
+    },
+    "num_atoms": 6132,
+    "cage_name": "PdII__C1-23__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-23",
+    "node": "PdII",
+    "linker": "C1-23",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-23__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 116.8643,
+    "outer_radius_angstrom": 58.4321,
+    "limiting_atom_1": {
+      "index": 957,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 4017,
+      "element": "H"
+    },
+    "num_atoms": 6132,
+    "cage_name": "PdII__C1-23__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-23",
+    "node": "PdII",
+    "linker": "C1-23",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-23__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 92.1527,
+    "outer_radius_angstrom": 46.0763,
+    "limiting_atom_1": {
+      "index": 692,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 947,
+      "element": "H"
+    },
+    "num_atoms": 1022,
+    "cage_name": "PdII__C1-23__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-23",
+    "node": "PdII",
+    "linker": "C1-23",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-23__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 106.4934,
+    "outer_radius_angstrom": 53.2467,
+    "limiting_atom_1": {
+      "index": 186,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1461,
+      "element": "H"
+    },
+    "num_atoms": 3066,
+    "cage_name": "PdII__C1-23__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-23",
+    "node": "PdII",
+    "linker": "C1-23",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-25__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 85.3622,
+    "outer_radius_angstrom": 42.6811,
+    "limiting_atom_1": {
+      "index": 2069,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 2644,
+      "element": "H"
+    },
+    "num_atoms": 2772,
+    "cage_name": "PdII__C1-25__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-25",
+    "node": "PdII",
+    "linker": "C1-25",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-25__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 84.9064,
+    "outer_radius_angstrom": 42.4532,
+    "limiting_atom_1": {
+      "index": 804,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1609,
+      "element": "H"
+    },
+    "num_atoms": 2772,
+    "cage_name": "PdII__C1-25__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-25",
+    "node": "PdII",
+    "linker": "C1-25",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-25__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 58.7293,
+    "outer_radius_angstrom": 29.3646,
+    "limiting_atom_1": {
+      "index": 330,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 445,
+      "element": "H"
+    },
+    "num_atoms": 462,
+    "cage_name": "PdII__C1-25__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-25",
+    "node": "PdII",
+    "linker": "C1-25",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-25__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 74.5546,
+    "outer_radius_angstrom": 37.2773,
+    "limiting_atom_1": {
+      "index": 453,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 798,
+      "element": "H"
+    },
+    "num_atoms": 1386,
+    "cage_name": "PdII__C1-25__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-25",
+    "node": "PdII",
+    "linker": "C1-25",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-2__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 41.1709,
+    "outer_radius_angstrom": 20.5855,
+    "limiting_atom_1": {
+      "index": 77,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 451,
+      "element": "H"
+    },
+    "num_atoms": 828,
+    "cage_name": "PdII__C1-2__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-2",
+    "node": "PdII",
+    "linker": "C1-2",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-2__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 41.0464,
+    "outer_radius_angstrom": 20.5232,
+    "limiting_atom_1": {
+      "index": 145,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 553,
+      "element": "H"
+    },
+    "num_atoms": 828,
+    "cage_name": "PdII__C1-2__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-2",
+    "node": "PdII",
+    "linker": "C1-2",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-2__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 21.1356,
+    "outer_radius_angstrom": 10.5678,
+    "limiting_atom_1": {
+      "index": 101,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 135,
+      "element": "H"
+    },
+    "num_atoms": 138,
+    "cage_name": "PdII__C1-2__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-2",
+    "node": "PdII",
+    "linker": "C1-2",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-2__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 31.3546,
+    "outer_radius_angstrom": 15.6773,
+    "limiting_atom_1": {
+      "index": 343,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 377,
+      "element": "H"
+    },
+    "num_atoms": 414,
+    "cage_name": "PdII__C1-2__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-2",
+    "node": "PdII",
+    "linker": "C1-2",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-3__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 39.3872,
+    "outer_radius_angstrom": 19.6936,
+    "limiting_atom_1": {
+      "index": 618,
+      "element": "O"
+    },
+    "limiting_atom_2": {
+      "index": 714,
+      "element": "O"
+    },
+    "num_atoms": 780,
+    "cage_name": "PdII__C1-3__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-3",
+    "node": "PdII",
+    "linker": "C1-3",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-3__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 39.3266,
+    "outer_radius_angstrom": 19.6633,
+    "limiting_atom_1": {
+      "index": 42,
+      "element": "O"
+    },
+    "limiting_atom_2": {
+      "index": 714,
+      "element": "O"
+    },
+    "num_atoms": 780,
+    "cage_name": "PdII__C1-3__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-3",
+    "node": "PdII",
+    "linker": "C1-3",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-3__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 19.267,
+    "outer_radius_angstrom": 9.6335,
+    "limiting_atom_1": {
+      "index": 96,
+      "element": "O"
+    },
+    "limiting_atom_2": {
+      "index": 128,
+      "element": "O"
+    },
+    "num_atoms": 130,
+    "cage_name": "PdII__C1-3__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-3",
+    "node": "PdII",
+    "linker": "C1-3",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-3__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 29.6222,
+    "outer_radius_angstrom": 14.8111,
+    "limiting_atom_1": {
+      "index": 68,
+      "element": "O"
+    },
+    "limiting_atom_2": {
+      "index": 164,
+      "element": "O"
+    },
+    "num_atoms": 390,
+    "cage_name": "PdII__C1-3__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-3",
+    "node": "PdII",
+    "linker": "C1-3",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-4__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 48.1005,
+    "outer_radius_angstrom": 24.0502,
+    "limiting_atom_1": {
+      "index": 208,
+      "element": "N"
+    },
+    "limiting_atom_2": {
+      "index": 418,
+      "element": "N"
+    },
+    "num_atoms": 1020,
+    "cage_name": "PdII__C1-4__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-4",
+    "node": "PdII",
+    "linker": "C1-4",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-4__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 48.0056,
+    "outer_radius_angstrom": 24.0028,
+    "limiting_atom_1": {
+      "index": 166,
+      "element": "N"
+    },
+    "limiting_atom_2": {
+      "index": 670,
+      "element": "N"
+    },
+    "num_atoms": 1020,
+    "cage_name": "PdII__C1-4__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-4",
+    "node": "PdII",
+    "linker": "C1-4",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-4__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 24.6751,
+    "outer_radius_angstrom": 12.3375,
+    "limiting_atom_1": {
+      "index": 114,
+      "element": "N"
+    },
+    "limiting_atom_2": {
+      "index": 156,
+      "element": "N"
+    },
+    "num_atoms": 170,
+    "cage_name": "PdII__C1-4__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-4",
+    "node": "PdII",
+    "linker": "C1-4",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-4__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 36.7933,
+    "outer_radius_angstrom": 18.3967,
+    "limiting_atom_1": {
+      "index": 412,
+      "element": "N"
+    },
+    "limiting_atom_2": {
+      "index": 454,
+      "element": "N"
+    },
+    "num_atoms": 510,
+    "cage_name": "PdII__C1-4__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-4",
+    "node": "PdII",
+    "linker": "C1-4",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-5__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 54.672,
+    "outer_radius_angstrom": 27.336,
+    "limiting_atom_1": {
+      "index": 1069,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1364,
+      "element": "H"
+    },
+    "num_atoms": 1428,
+    "cage_name": "PdII__C1-5__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-5",
+    "node": "PdII",
+    "linker": "C1-5",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-5__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 54.5669,
+    "outer_radius_angstrom": 27.2835,
+    "limiting_atom_1": {
+      "index": 420,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 833,
+      "element": "H"
+    },
+    "num_atoms": 1428,
+    "cage_name": "PdII__C1-5__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-5",
+    "node": "PdII",
+    "linker": "C1-5",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-5__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 34.0597,
+    "outer_radius_angstrom": 17.0299,
+    "limiting_atom_1": {
+      "index": 174,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 233,
+      "element": "H"
+    },
+    "num_atoms": 238,
+    "cage_name": "PdII__C1-5__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-5",
+    "node": "PdII",
+    "linker": "C1-5",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-5__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 44.6387,
+    "outer_radius_angstrom": 22.3194,
+    "limiting_atom_1": {
+      "index": 60,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 355,
+      "element": "H"
+    },
+    "num_atoms": 714,
+    "cage_name": "PdII__C1-5__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-5",
+    "node": "PdII",
+    "linker": "C1-5",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-6__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 53.2777,
+    "outer_radius_angstrom": 26.6388,
+    "limiting_atom_1": {
+      "index": 55,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 822,
+      "element": "H"
+    },
+    "num_atoms": 1428,
+    "cage_name": "PdII__C1-6__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-6",
+    "node": "PdII",
+    "linker": "C1-6",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-6__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 53.1476,
+    "outer_radius_angstrom": 26.5738,
+    "limiting_atom_1": {
+      "index": 232,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 940,
+      "element": "H"
+    },
+    "num_atoms": 1428,
+    "cage_name": "PdII__C1-6__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-6",
+    "node": "PdII",
+    "linker": "C1-6",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-6__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 32.7614,
+    "outer_radius_angstrom": 16.3807,
+    "limiting_atom_1": {
+      "index": 163,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 222,
+      "element": "H"
+    },
+    "num_atoms": 238,
+    "cage_name": "PdII__C1-6__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-6",
+    "node": "PdII",
+    "linker": "C1-6",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-6__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 43.4436,
+    "outer_radius_angstrom": 21.7218,
+    "limiting_atom_1": {
+      "index": 580,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 639,
+      "element": "H"
+    },
+    "num_atoms": 714,
+    "cage_name": "PdII__C1-6__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-6",
+    "node": "PdII",
+    "linker": "C1-6",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-7__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 54.8832,
+    "outer_radius_angstrom": 27.4416,
+    "limiting_atom_1": {
+      "index": 129,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 778,
+      "element": "H"
+    },
+    "num_atoms": 1428,
+    "cage_name": "PdII__C1-7__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-7",
+    "node": "PdII",
+    "linker": "C1-7",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-7__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 54.8986,
+    "outer_radius_angstrom": 27.4493,
+    "limiting_atom_1": {
+      "index": 247,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 955,
+      "element": "H"
+    },
+    "num_atoms": 1428,
+    "cage_name": "PdII__C1-7__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-7",
+    "node": "PdII",
+    "linker": "C1-7",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-7__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 34.4895,
+    "outer_radius_angstrom": 17.2447,
+    "limiting_atom_1": {
+      "index": 178,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 237,
+      "element": "H"
+    },
+    "num_atoms": 238,
+    "cage_name": "PdII__C1-7__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-7",
+    "node": "PdII",
+    "linker": "C1-7",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-7__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 45.1274,
+    "outer_radius_angstrom": 22.5637,
+    "limiting_atom_1": {
+      "index": 595,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 654,
+      "element": "H"
+    },
+    "num_atoms": 714,
+    "cage_name": "PdII__C1-7__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-7",
+    "node": "PdII",
+    "linker": "C1-7",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-8__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 62.2431,
+    "outer_radius_angstrom": 31.1215,
+    "limiting_atom_1": {
+      "index": 88,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1119,
+      "element": "O"
+    },
+    "num_atoms": 1932,
+    "cage_name": "PdII__C1-8__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-8",
+    "node": "PdII",
+    "linker": "C1-8",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-8__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 62.3583,
+    "outer_radius_angstrom": 31.1792,
+    "limiting_atom_1": {
+      "index": 88,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1768,
+      "element": "H"
+    },
+    "num_atoms": 1932,
+    "cage_name": "PdII__C1-8__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-8",
+    "node": "PdII",
+    "linker": "C1-8",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-8__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 37.6506,
+    "outer_radius_angstrom": 18.8253,
+    "limiting_atom_1": {
+      "index": 69,
+      "element": "O"
+    },
+    "limiting_atom_2": {
+      "index": 149,
+      "element": "O"
+    },
+    "num_atoms": 322,
+    "cage_name": "PdII__C1-8__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-8",
+    "node": "PdII",
+    "linker": "C1-8",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-8__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 51.8118,
+    "outer_radius_angstrom": 25.9059,
+    "limiting_atom_1": {
+      "index": 793,
+      "element": "O"
+    },
+    "limiting_atom_2": {
+      "index": 873,
+      "element": "O"
+    },
+    "num_atoms": 966,
+    "cage_name": "PdII__C1-8__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-8",
+    "node": "PdII",
+    "linker": "C1-8",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-9__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 64.7102,
+    "outer_radius_angstrom": 32.3551,
+    "limiting_atom_1": {
+      "index": 402,
+      "element": "O"
+    },
+    "limiting_atom_2": {
+      "index": 802,
+      "element": "O"
+    },
+    "num_atoms": 1932,
+    "cage_name": "PdII__C1-9__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C1-9",
+    "node": "PdII",
+    "linker": "C1-9",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-9__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 64.6664,
+    "outer_radius_angstrom": 32.3332,
+    "limiting_atom_1": {
+      "index": 322,
+      "element": "O"
+    },
+    "limiting_atom_2": {
+      "index": 1282,
+      "element": "O"
+    },
+    "num_atoms": 1932,
+    "cage_name": "PdII__C1-9__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C1-9",
+    "node": "PdII",
+    "linker": "C1-9",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-9__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 43.4665,
+    "outer_radius_angstrom": 21.7333,
+    "limiting_atom_1": {
+      "index": 72,
+      "element": "O"
+    },
+    "limiting_atom_2": {
+      "index": 152,
+      "element": "O"
+    },
+    "num_atoms": 322,
+    "cage_name": "PdII__C1-9__M2L4_lantern__Q+4",
+    "system_key": "PdII__C1-9",
+    "node": "PdII",
+    "linker": "C1-9",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C1-9__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 54.8617,
+    "outer_radius_angstrom": 27.4309,
+    "limiting_atom_1": {
+      "index": 716,
+      "element": "O"
+    },
+    "limiting_atom_2": {
+      "index": 956,
+      "element": "O"
+    },
+    "num_atoms": 966,
+    "cage_name": "PdII__C1-9__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C1-9",
+    "node": "PdII",
+    "linker": "C1-9",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C10-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 53.5358,
+    "outer_radius_angstrom": 26.7679,
+    "limiting_atom_1": {
+      "index": 126,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 776,
+      "element": "H"
+    },
+    "num_atoms": 1212,
+    "cage_name": "PdII__C10-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C10-1",
+    "node": "PdII",
+    "linker": "C10-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C10-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 53.6538,
+    "outer_radius_angstrom": 26.8269,
+    "limiting_atom_1": {
+      "index": 176,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 776,
+      "element": "H"
+    },
+    "num_atoms": 1212,
+    "cage_name": "PdII__C10-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C10-1",
+    "node": "PdII",
+    "linker": "C10-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C10-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 21.7564,
+    "outer_radius_angstrom": 10.8782,
+    "limiting_atom_1": {
+      "index": 116,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 166,
+      "element": "H"
+    },
+    "num_atoms": 202,
+    "cage_name": "PdII__C10-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C10-1",
+    "node": "PdII",
+    "linker": "C10-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C10-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 38.8661,
+    "outer_radius_angstrom": 19.433,
+    "limiting_atom_1": {
+      "index": 20,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 270,
+      "element": "H"
+    },
+    "num_atoms": 606,
+    "cage_name": "PdII__C10-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C10-1",
+    "node": "PdII",
+    "linker": "C10-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C11-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 53.5434,
+    "outer_radius_angstrom": 26.7717,
+    "limiting_atom_1": {
+      "index": 204,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 419,
+      "element": "H"
+    },
+    "num_atoms": 1044,
+    "cage_name": "PdII__C11-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C11-1",
+    "node": "PdII",
+    "linker": "C11-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C11-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 53.5653,
+    "outer_radius_angstrom": 26.7827,
+    "limiting_atom_1": {
+      "index": 161,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 696,
+      "element": "H"
+    },
+    "num_atoms": 1044,
+    "cage_name": "PdII__C11-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C11-1",
+    "node": "PdII",
+    "linker": "C11-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C11-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 23.7724,
+    "outer_radius_angstrom": 11.8862,
+    "limiting_atom_1": {
+      "index": 127,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 151,
+      "element": "H"
+    },
+    "num_atoms": 174,
+    "cage_name": "PdII__C11-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C11-1",
+    "node": "PdII",
+    "linker": "C11-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C11-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 38.8642,
+    "outer_radius_angstrom": 19.4321,
+    "limiting_atom_1": {
+      "index": 26,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 241,
+      "element": "H"
+    },
+    "num_atoms": 522,
+    "cage_name": "PdII__C11-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C11-1",
+    "node": "PdII",
+    "linker": "C11-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C12-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 52.2422,
+    "outer_radius_angstrom": 26.1211,
+    "limiting_atom_1": {
+      "index": 532,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 745,
+      "element": "H"
+    },
+    "num_atoms": 1716,
+    "cage_name": "PdII__C12-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C12-1",
+    "node": "PdII",
+    "linker": "C12-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C12-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 52.7669,
+    "outer_radius_angstrom": 26.3834,
+    "limiting_atom_1": {
+      "index": 532,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 745,
+      "element": "H"
+    },
+    "num_atoms": 1716,
+    "cage_name": "PdII__C12-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C12-1",
+    "node": "PdII",
+    "linker": "C12-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C12-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 20.045,
+    "outer_radius_angstrom": 10.0225,
+    "limiting_atom_1": {
+      "index": 151,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 221,
+      "element": "H"
+    },
+    "num_atoms": 286,
+    "cage_name": "PdII__C12-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C12-1",
+    "node": "PdII",
+    "linker": "C12-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C12-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 36.9325,
+    "outer_radius_angstrom": 18.4662,
+    "limiting_atom_1": {
+      "index": 272,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 485,
+      "element": "H"
+    },
+    "num_atoms": 858,
+    "cage_name": "PdII__C12-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C12-1",
+    "node": "PdII",
+    "linker": "C12-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C13-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 36.049,
+    "outer_radius_angstrom": 18.0245,
+    "limiting_atom_1": {
+      "index": 217,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 301,
+      "element": "H"
+    },
+    "num_atoms": 684,
+    "cage_name": "PdII__C13-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C13-1",
+    "node": "PdII",
+    "linker": "C13-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C13-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 36.134,
+    "outer_radius_angstrom": 18.067,
+    "limiting_atom_1": {
+      "index": 105,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 441,
+      "element": "H"
+    },
+    "num_atoms": 684,
+    "cage_name": "PdII__C13-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C13-1",
+    "node": "PdII",
+    "linker": "C13-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C13-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 15.7836,
+    "outer_radius_angstrom": 7.8918,
+    "limiting_atom_1": {
+      "index": 67,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 95,
+      "element": "H"
+    },
+    "num_atoms": 114,
+    "cage_name": "PdII__C13-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C13-1",
+    "node": "PdII",
+    "linker": "C13-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C13-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 26.3055,
+    "outer_radius_angstrom": 13.1527,
+    "limiting_atom_1": {
+      "index": 239,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 323,
+      "element": "H"
+    },
+    "num_atoms": 342,
+    "cage_name": "PdII__C13-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C13-1",
+    "node": "PdII",
+    "linker": "C13-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C14-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 33.965,
+    "outer_radius_angstrom": 16.9825,
+    "limiting_atom_1": {
+      "index": 149,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 230,
+      "element": "H"
+    },
+    "num_atoms": 660,
+    "cage_name": "PdII__C14-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C14-1",
+    "node": "PdII",
+    "linker": "C14-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C14-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 34.0766,
+    "outer_radius_angstrom": 17.0383,
+    "limiting_atom_1": {
+      "index": 14,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 581,
+      "element": "H"
+    },
+    "num_atoms": 660,
+    "cage_name": "PdII__C14-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C14-1",
+    "node": "PdII",
+    "linker": "C14-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C14-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 14.3759,
+    "outer_radius_angstrom": 7.188,
+    "limiting_atom_1": {
+      "index": 58,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 90,
+      "element": "H"
+    },
+    "num_atoms": 110,
+    "cage_name": "PdII__C14-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C14-1",
+    "node": "PdII",
+    "linker": "C14-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C14-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 24.499,
+    "outer_radius_angstrom": 12.2495,
+    "limiting_atom_1": {
+      "index": 40,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 121,
+      "element": "H"
+    },
+    "num_atoms": 330,
+    "cage_name": "PdII__C14-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C14-1",
+    "node": "PdII",
+    "linker": "C14-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C15-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 34.9566,
+    "outer_radius_angstrom": 17.4783,
+    "limiting_atom_1": {
+      "index": 77,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 467,
+      "element": "H"
+    },
+    "num_atoms": 732,
+    "cage_name": "PdII__C15-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C15-1",
+    "node": "PdII",
+    "linker": "C15-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C15-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 35.2531,
+    "outer_radius_angstrom": 17.6266,
+    "limiting_atom_1": {
+      "index": 317,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 527,
+      "element": "H"
+    },
+    "num_atoms": 732,
+    "cage_name": "PdII__C15-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C15-1",
+    "node": "PdII",
+    "linker": "C15-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C15-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 16.0967,
+    "outer_radius_angstrom": 8.0484,
+    "limiting_atom_1": {
+      "index": 67,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 102,
+      "element": "H"
+    },
+    "num_atoms": 122,
+    "cage_name": "PdII__C15-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C15-1",
+    "node": "PdII",
+    "linker": "C15-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C15-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 25.6993,
+    "outer_radius_angstrom": 12.8496,
+    "limiting_atom_1": {
+      "index": 281,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 311,
+      "element": "H"
+    },
+    "num_atoms": 366,
+    "cage_name": "PdII__C15-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C15-1",
+    "node": "PdII",
+    "linker": "C15-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C16-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 43.6643,
+    "outer_radius_angstrom": 21.8322,
+    "limiting_atom_1": {
+      "index": 765,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 885,
+      "element": "H"
+    },
+    "num_atoms": 972,
+    "cage_name": "PdII__C16-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C16-1",
+    "node": "PdII",
+    "linker": "C16-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C16-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 43.3887,
+    "outer_radius_angstrom": 21.6943,
+    "limiting_atom_1": {
+      "index": 525,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 605,
+      "element": "H"
+    },
+    "num_atoms": 972,
+    "cage_name": "PdII__C16-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C16-1",
+    "node": "PdII",
+    "linker": "C16-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C16-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 19.4087,
+    "outer_radius_angstrom": 9.7043,
+    "limiting_atom_1": {
+      "index": 115,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 161,
+      "element": "H"
+    },
+    "num_atoms": 162,
+    "cage_name": "PdII__C16-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C16-1",
+    "node": "PdII",
+    "linker": "C16-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C16-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 31.0467,
+    "outer_radius_angstrom": 15.5233,
+    "limiting_atom_1": {
+      "index": 359,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 479,
+      "element": "H"
+    },
+    "num_atoms": 486,
+    "cage_name": "PdII__C16-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C16-1",
+    "node": "PdII",
+    "linker": "C16-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C18-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 40.6782,
+    "outer_radius_angstrom": 20.3391,
+    "limiting_atom_1": {
+      "index": 152,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 548,
+      "element": "H"
+    },
+    "num_atoms": 876,
+    "cage_name": "PdII__C18-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C18-1",
+    "node": "PdII",
+    "linker": "C18-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C18-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 40.768,
+    "outer_radius_angstrom": 20.384,
+    "limiting_atom_1": {
+      "index": 404,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 656,
+      "element": "H"
+    },
+    "num_atoms": 876,
+    "cage_name": "PdII__C18-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C18-1",
+    "node": "PdII",
+    "linker": "C18-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C18-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 17.5028,
+    "outer_radius_angstrom": 8.7514,
+    "limiting_atom_1": {
+      "index": 17,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 50,
+      "element": "H"
+    },
+    "num_atoms": 146,
+    "cage_name": "PdII__C18-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C18-1",
+    "node": "PdII",
+    "linker": "C18-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C18-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 27.805,
+    "outer_radius_angstrom": 13.9025,
+    "limiting_atom_1": {
+      "index": 326,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 434,
+      "element": "H"
+    },
+    "num_atoms": 438,
+    "cage_name": "PdII__C18-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C18-1",
+    "node": "PdII",
+    "linker": "C18-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C19-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 47.4288,
+    "outer_radius_angstrom": 23.7144,
+    "limiting_atom_1": {
+      "index": 95,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 878,
+      "element": "H"
+    },
+    "num_atoms": 1644,
+    "cage_name": "PdII__C19-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C19-1",
+    "node": "PdII",
+    "linker": "C19-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C19-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 47.4885,
+    "outer_radius_angstrom": 23.7443,
+    "limiting_atom_1": {
+      "index": 503,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1558,
+      "element": "H"
+    },
+    "num_atoms": 1644,
+    "cage_name": "PdII__C19-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C19-1",
+    "node": "PdII",
+    "linker": "C19-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C19-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 23.3603,
+    "outer_radius_angstrom": 11.6801,
+    "limiting_atom_1": {
+      "index": 188,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 256,
+      "element": "H"
+    },
+    "num_atoms": 274,
+    "cage_name": "PdII__C19-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C19-1",
+    "node": "PdII",
+    "linker": "C19-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C19-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 35.2521,
+    "outer_radius_angstrom": 17.626,
+    "limiting_atom_1": {
+      "index": 21,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 361,
+      "element": "H"
+    },
+    "num_atoms": 822,
+    "cage_name": "PdII__C19-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C19-1",
+    "node": "PdII",
+    "linker": "C19-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-10__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 47.7796,
+    "outer_radius_angstrom": 23.8898,
+    "limiting_atom_1": {
+      "index": 445,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 622,
+      "element": "H"
+    },
+    "num_atoms": 1428,
+    "cage_name": "PdII__C2-10__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C2-10",
+    "node": "PdII",
+    "linker": "C2-10",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-10__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 47.4153,
+    "outer_radius_angstrom": 23.7076,
+    "limiting_atom_1": {
+      "index": 445,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1330,
+      "element": "H"
+    },
+    "num_atoms": 1428,
+    "cage_name": "PdII__C2-10__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C2-10",
+    "node": "PdII",
+    "linker": "C2-10",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-11__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 47.7826,
+    "outer_radius_angstrom": 23.8913,
+    "limiting_atom_1": {
+      "index": 1210,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1272,
+      "element": "H"
+    },
+    "num_atoms": 1500,
+    "cage_name": "PdII__C2-11__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C2-11",
+    "node": "PdII",
+    "linker": "C2-11",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-11__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 46.8469,
+    "outer_radius_angstrom": 23.4234,
+    "limiting_atom_1": {
+      "index": 94,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1272,
+      "element": "H"
+    },
+    "num_atoms": 1500,
+    "cage_name": "PdII__C2-11__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C2-11",
+    "node": "PdII",
+    "linker": "C2-11",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-12__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 46.9138,
+    "outer_radius_angstrom": 23.4569,
+    "limiting_atom_1": {
+      "index": 267,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 408,
+      "element": "H"
+    },
+    "num_atoms": 1140,
+    "cage_name": "PdII__C2-12__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C2-12",
+    "node": "PdII",
+    "linker": "C2-12",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-12__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 46.7983,
+    "outer_radius_angstrom": 23.3991,
+    "limiting_atom_1": {
+      "index": 408,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 455,
+      "element": "H"
+    },
+    "num_atoms": 1140,
+    "cage_name": "PdII__C2-12__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C2-12",
+    "node": "PdII",
+    "linker": "C2-12",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-12__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 34.0793,
+    "outer_radius_angstrom": 17.0397,
+    "limiting_atom_1": {
+      "index": 167,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 308,
+      "element": "H"
+    },
+    "num_atoms": 570,
+    "cage_name": "PdII__C2-12__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C2-12",
+    "node": "PdII",
+    "linker": "C2-12",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-13__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 63.8365,
+    "outer_radius_angstrom": 31.9182,
+    "limiting_atom_1": {
+      "index": 445,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 631,
+      "element": "H"
+    },
+    "num_atoms": 1500,
+    "cage_name": "PdII__C2-13__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C2-13",
+    "node": "PdII",
+    "linker": "C2-13",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-13__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 66.7859,
+    "outer_radius_angstrom": 33.3929,
+    "limiting_atom_1": {
+      "index": 631,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1127,
+      "element": "H"
+    },
+    "num_atoms": 1500,
+    "cage_name": "PdII__C2-13__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C2-13",
+    "node": "PdII",
+    "linker": "C2-13",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 46.464,
+    "outer_radius_angstrom": 23.232,
+    "limiting_atom_1": {
+      "index": 168,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 338,
+      "element": "H"
+    },
+    "num_atoms": 828,
+    "cage_name": "PdII__C2-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C2-1",
+    "node": "PdII",
+    "linker": "C2-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 46.5497,
+    "outer_radius_angstrom": 23.2748,
+    "limiting_atom_1": {
+      "index": 32,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 746,
+      "element": "H"
+    },
+    "num_atoms": 828,
+    "cage_name": "PdII__C2-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C2-1",
+    "node": "PdII",
+    "linker": "C2-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 21.3513,
+    "outer_radius_angstrom": 10.6756,
+    "limiting_atom_1": {
+      "index": 90,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 124,
+      "element": "H"
+    },
+    "num_atoms": 138,
+    "cage_name": "PdII__C2-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C2-1",
+    "node": "PdII",
+    "linker": "C2-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 33.9579,
+    "outer_radius_angstrom": 16.9789,
+    "limiting_atom_1": {
+      "index": 60,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 162,
+      "element": "H"
+    },
+    "num_atoms": 414,
+    "cage_name": "PdII__C2-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C2-1",
+    "node": "PdII",
+    "linker": "C2-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-2__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 46.4619,
+    "outer_radius_angstrom": 23.2309,
+    "limiting_atom_1": {
+      "index": 180,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 365,
+      "element": "H"
+    },
+    "num_atoms": 900,
+    "cage_name": "PdII__C2-2__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C2-2",
+    "node": "PdII",
+    "linker": "C2-2",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-2__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 46.546,
+    "outer_radius_angstrom": 23.273,
+    "limiting_atom_1": {
+      "index": 32,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 809,
+      "element": "H"
+    },
+    "num_atoms": 900,
+    "cage_name": "PdII__C2-2__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C2-2",
+    "node": "PdII",
+    "linker": "C2-2",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-2__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 21.126,
+    "outer_radius_angstrom": 10.563,
+    "limiting_atom_1": {
+      "index": 22,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 59,
+      "element": "H"
+    },
+    "num_atoms": 150,
+    "cage_name": "PdII__C2-2__M2L4_lantern__Q+4",
+    "system_key": "PdII__C2-2",
+    "node": "PdII",
+    "linker": "C2-2",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-2__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 33.9228,
+    "outer_radius_angstrom": 16.9614,
+    "limiting_atom_1": {
+      "index": 137,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 248,
+      "element": "H"
+    },
+    "num_atoms": 450,
+    "cage_name": "PdII__C2-2__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C2-2",
+    "node": "PdII",
+    "linker": "C2-2",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-3__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 47.2358,
+    "outer_radius_angstrom": 23.6179,
+    "limiting_atom_1": {
+      "index": 244,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 509,
+      "element": "H"
+    },
+    "num_atoms": 1284,
+    "cage_name": "PdII__C2-3__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C2-3",
+    "node": "PdII",
+    "linker": "C2-3",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-3__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 47.6666,
+    "outer_radius_angstrom": 23.8333,
+    "limiting_atom_1": {
+      "index": 668,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 774,
+      "element": "H"
+    },
+    "num_atoms": 1284,
+    "cage_name": "PdII__C2-3__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C2-3",
+    "node": "PdII",
+    "linker": "C2-3",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-6__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 45.7761,
+    "outer_radius_angstrom": 22.888,
+    "limiting_atom_1": {
+      "index": 99,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 583,
+      "element": "H"
+    },
+    "num_atoms": 1068,
+    "cage_name": "PdII__C2-6__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C2-6",
+    "node": "PdII",
+    "linker": "C2-6",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-6__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 46.5357,
+    "outer_radius_angstrom": 23.2678,
+    "limiting_atom_1": {
+      "index": 319,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 627,
+      "element": "H"
+    },
+    "num_atoms": 1068,
+    "cage_name": "PdII__C2-6__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C2-6",
+    "node": "PdII",
+    "linker": "C2-6",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-6__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 32.8027,
+    "outer_radius_angstrom": 16.4014,
+    "limiting_atom_1": {
+      "index": 445,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 466,
+      "element": "H"
+    },
+    "num_atoms": 534,
+    "cage_name": "PdII__C2-6__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C2-6",
+    "node": "PdII",
+    "linker": "C2-6",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-7__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 58.7247,
+    "outer_radius_angstrom": 29.3624,
+    "limiting_atom_1": {
+      "index": 911,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1282,
+      "element": "H"
+    },
+    "num_atoms": 1284,
+    "cage_name": "PdII__C2-7__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C2-7",
+    "node": "PdII",
+    "linker": "C2-7",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-7__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 56.4049,
+    "outer_radius_angstrom": 28.2024,
+    "limiting_atom_1": {
+      "index": 222,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 858,
+      "element": "H"
+    },
+    "num_atoms": 1284,
+    "cage_name": "PdII__C2-7__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C2-7",
+    "node": "PdII",
+    "linker": "C2-7",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-7__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 42.2447,
+    "outer_radius_angstrom": 21.1224,
+    "limiting_atom_1": {
+      "index": 216,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 375,
+      "element": "H"
+    },
+    "num_atoms": 642,
+    "cage_name": "PdII__C2-7__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C2-7",
+    "node": "PdII",
+    "linker": "C2-7",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-8__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 46.4904,
+    "outer_radius_angstrom": 23.2452,
+    "limiting_atom_1": {
+      "index": 754,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 792,
+      "element": "H"
+    },
+    "num_atoms": 924,
+    "cage_name": "PdII__C2-8__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C2-8",
+    "node": "PdII",
+    "linker": "C2-8",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-8__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 46.3965,
+    "outer_radius_angstrom": 23.1982,
+    "limiting_atom_1": {
+      "index": 260,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 526,
+      "element": "H"
+    },
+    "num_atoms": 924,
+    "cage_name": "PdII__C2-8__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C2-8",
+    "node": "PdII",
+    "linker": "C2-8",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-8__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 21.5027,
+    "outer_radius_angstrom": 10.7514,
+    "limiting_atom_1": {
+      "index": 98,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 136,
+      "element": "H"
+    },
+    "num_atoms": 154,
+    "cage_name": "PdII__C2-8__M2L4_lantern__Q+4",
+    "system_key": "PdII__C2-8",
+    "node": "PdII",
+    "linker": "C2-8",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-8__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 33.898,
+    "outer_radius_angstrom": 16.949,
+    "limiting_atom_1": {
+      "index": 26,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 216,
+      "element": "H"
+    },
+    "num_atoms": 462,
+    "cage_name": "PdII__C2-8__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C2-8",
+    "node": "PdII",
+    "linker": "C2-8",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-9__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 47.172,
+    "outer_radius_angstrom": 23.586,
+    "limiting_atom_1": {
+      "index": 138,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 827,
+      "element": "H"
+    },
+    "num_atoms": 1284,
+    "cage_name": "PdII__C2-9__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C2-9",
+    "node": "PdII",
+    "linker": "C2-9",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-9__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 47.524,
+    "outer_radius_angstrom": 23.762,
+    "limiting_atom_1": {
+      "index": 350,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 721,
+      "element": "H"
+    },
+    "num_atoms": 1284,
+    "cage_name": "PdII__C2-9__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C2-9",
+    "node": "PdII",
+    "linker": "C2-9",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C2-9__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 34.2588,
+    "outer_radius_angstrom": 17.1294,
+    "limiting_atom_1": {
+      "index": 132,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 397,
+      "element": "H"
+    },
+    "num_atoms": 642,
+    "cage_name": "PdII__C2-9__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C2-9",
+    "node": "PdII",
+    "linker": "C2-9",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C20-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 57.1935,
+    "outer_radius_angstrom": 28.5968,
+    "limiting_atom_1": {
+      "index": 1092,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1558,
+      "element": "H"
+    },
+    "num_atoms": 1596,
+    "cage_name": "PdII__C20-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C20-1",
+    "node": "PdII",
+    "linker": "C20-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C20-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 57.2754,
+    "outer_radius_angstrom": 28.6377,
+    "limiting_atom_1": {
+      "index": 762,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1092,
+      "element": "H"
+    },
+    "num_atoms": 1596,
+    "cage_name": "PdII__C20-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C20-1",
+    "node": "PdII",
+    "linker": "C20-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C20-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 31.7793,
+    "outer_radius_angstrom": 15.8897,
+    "limiting_atom_1": {
+      "index": 26,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 92,
+      "element": "H"
+    },
+    "num_atoms": 266,
+    "cage_name": "PdII__C20-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C20-1",
+    "node": "PdII",
+    "linker": "C20-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C20-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 44.234,
+    "outer_radius_angstrom": 22.117,
+    "limiting_atom_1": {
+      "index": 30,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 364,
+      "element": "H"
+    },
+    "num_atoms": 798,
+    "cage_name": "PdII__C20-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C20-1",
+    "node": "PdII",
+    "linker": "C20-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C4-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 48.2193,
+    "outer_radius_angstrom": 24.1096,
+    "limiting_atom_1": {
+      "index": 60,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 705,
+      "element": "H"
+    },
+    "num_atoms": 1212,
+    "cage_name": "PdII__C4-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C4-1",
+    "node": "PdII",
+    "linker": "C4-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C4-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 48.147,
+    "outer_radius_angstrom": 24.0735,
+    "limiting_atom_1": {
+      "index": 55,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 1105,
+      "element": "H"
+    },
+    "num_atoms": 1212,
+    "cage_name": "PdII__C4-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C4-1",
+    "node": "PdII",
+    "linker": "C4-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C4-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 25.641,
+    "outer_radius_angstrom": 12.8205,
+    "limiting_atom_1": {
+      "index": 145,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 200,
+      "element": "H"
+    },
+    "num_atoms": 202,
+    "cage_name": "PdII__C4-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C4-1",
+    "node": "PdII",
+    "linker": "C4-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C4-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 37.3607,
+    "outer_radius_angstrom": 18.6804,
+    "limiting_atom_1": {
+      "index": 199,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 349,
+      "element": "H"
+    },
+    "num_atoms": 606,
+    "cage_name": "PdII__C4-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C4-1",
+    "node": "PdII",
+    "linker": "C4-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C5-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 34.1297,
+    "outer_radius_angstrom": 17.0649,
+    "limiting_atom_1": {
+      "index": 173,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 254,
+      "element": "H"
+    },
+    "num_atoms": 660,
+    "cage_name": "PdII__C5-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C5-1",
+    "node": "PdII",
+    "linker": "C5-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C5-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 34.2254,
+    "outer_radius_angstrom": 17.1127,
+    "limiting_atom_1": {
+      "index": 38,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 605,
+      "element": "H"
+    },
+    "num_atoms": 660,
+    "cage_name": "PdII__C5-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C5-1",
+    "node": "PdII",
+    "linker": "C5-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C5-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 14.4393,
+    "outer_radius_angstrom": 7.2197,
+    "limiting_atom_1": {
+      "index": 82,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 108,
+      "element": "H"
+    },
+    "num_atoms": 110,
+    "cage_name": "PdII__C5-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C5-1",
+    "node": "PdII",
+    "linker": "C5-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C5-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 24.544,
+    "outer_radius_angstrom": 12.272,
+    "limiting_atom_1": {
+      "index": 31,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 166,
+      "element": "H"
+    },
+    "num_atoms": 330,
+    "cage_name": "PdII__C5-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C5-1",
+    "node": "PdII",
+    "linker": "C5-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C6-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 34.1958,
+    "outer_radius_angstrom": 17.0979,
+    "limiting_atom_1": {
+      "index": 177,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 261,
+      "element": "H"
+    },
+    "num_atoms": 684,
+    "cage_name": "PdII__C6-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C6-1",
+    "node": "PdII",
+    "linker": "C6-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C6-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 34.2781,
+    "outer_radius_angstrom": 17.139,
+    "limiting_atom_1": {
+      "index": 121,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 458,
+      "element": "H"
+    },
+    "num_atoms": 684,
+    "cage_name": "PdII__C6-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C6-1",
+    "node": "PdII",
+    "linker": "C6-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C6-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 14.5038,
+    "outer_radius_angstrom": 7.2519,
+    "limiting_atom_1": {
+      "index": 28,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 55,
+      "element": "H"
+    },
+    "num_atoms": 114,
+    "cage_name": "PdII__C6-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C6-1",
+    "node": "PdII",
+    "linker": "C6-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C6-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 24.4466,
+    "outer_radius_angstrom": 12.2233,
+    "limiting_atom_1": {
+      "index": 283,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 311,
+      "element": "H"
+    },
+    "num_atoms": 342,
+    "cage_name": "PdII__C6-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C6-1",
+    "node": "PdII",
+    "linker": "C6-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C6-2__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 34.0379,
+    "outer_radius_angstrom": 17.0189,
+    "limiting_atom_1": {
+      "index": 224,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 379,
+      "element": "H"
+    },
+    "num_atoms": 756,
+    "cage_name": "PdII__C6-2__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C6-2",
+    "node": "PdII",
+    "linker": "C6-2",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C6-2__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 34.0671,
+    "outer_radius_angstrom": 17.0336,
+    "limiting_atom_1": {
+      "index": 38,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 689,
+      "element": "H"
+    },
+    "num_atoms": 756,
+    "cage_name": "PdII__C6-2__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C6-2",
+    "node": "PdII",
+    "linker": "C6-2",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C6-2__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 14.8024,
+    "outer_radius_angstrom": 7.4012,
+    "limiting_atom_1": {
+      "index": 27,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 59,
+      "element": "H"
+    },
+    "num_atoms": 126,
+    "cage_name": "PdII__C6-2__M2L4_lantern__Q+4",
+    "system_key": "PdII__C6-2",
+    "node": "PdII",
+    "linker": "C6-2",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C6-2__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 24.448,
+    "outer_radius_angstrom": 12.224,
+    "limiting_atom_1": {
+      "index": 280,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 373,
+      "element": "H"
+    },
+    "num_atoms": 378,
+    "cage_name": "PdII__C6-2__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C6-2",
+    "node": "PdII",
+    "linker": "C6-2",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C7-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 34.1544,
+    "outer_radius_angstrom": 17.0772,
+    "limiting_atom_1": {
+      "index": 92,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 456,
+      "element": "H"
+    },
+    "num_atoms": 684,
+    "cage_name": "PdII__C7-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C7-1",
+    "node": "PdII",
+    "linker": "C7-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C7-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 34.2391,
+    "outer_radius_angstrom": 17.1195,
+    "limiting_atom_1": {
+      "index": 36,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 624,
+      "element": "H"
+    },
+    "num_atoms": 684,
+    "cage_name": "PdII__C7-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C7-1",
+    "node": "PdII",
+    "linker": "C7-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C7-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 14.0656,
+    "outer_radius_angstrom": 7.0328,
+    "limiting_atom_1": {
+      "index": 26,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 54,
+      "element": "H"
+    },
+    "num_atoms": 114,
+    "cage_name": "PdII__C7-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C7-1",
+    "node": "PdII",
+    "linker": "C7-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C7-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 24.358,
+    "outer_radius_angstrom": 12.179,
+    "limiting_atom_1": {
+      "index": 255,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 339,
+      "element": "H"
+    },
+    "num_atoms": 342,
+    "cage_name": "PdII__C7-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C7-1",
+    "node": "PdII",
+    "linker": "C7-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C8-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 34.3509,
+    "outer_radius_angstrom": 17.1754,
+    "limiting_atom_1": {
+      "index": 62,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 359,
+      "element": "H"
+    },
+    "num_atoms": 660,
+    "cage_name": "PdII__C8-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C8-1",
+    "node": "PdII",
+    "linker": "C8-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C8-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 34.4246,
+    "outer_radius_angstrom": 17.2123,
+    "limiting_atom_1": {
+      "index": 198,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 386,
+      "element": "H"
+    },
+    "num_atoms": 660,
+    "cage_name": "PdII__C8-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C8-1",
+    "node": "PdII",
+    "linker": "C8-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C8-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 14.0021,
+    "outer_radius_angstrom": 7.0011,
+    "limiting_atom_1": {
+      "index": 60,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 102,
+      "element": "H"
+    },
+    "num_atoms": 110,
+    "cage_name": "PdII__C8-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C8-1",
+    "node": "PdII",
+    "linker": "C8-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C8-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 24.2648,
+    "outer_radius_angstrom": 12.1324,
+    "limiting_atom_1": {
+      "index": 245,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 326,
+      "element": "H"
+    },
+    "num_atoms": 330,
+    "cage_name": "PdII__C8-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C8-1",
+    "node": "PdII",
+    "linker": "C8-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C8-2__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 37.714,
+    "outer_radius_angstrom": 18.857,
+    "limiting_atom_1": {
+      "index": 197,
+      "element": "Br"
+    },
+    "limiting_atom_2": {
+      "index": 332,
+      "element": "Br"
+    },
+    "num_atoms": 660,
+    "cage_name": "PdII__C8-2__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C8-2",
+    "node": "PdII",
+    "linker": "C8-2",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C8-2__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 37.8107,
+    "outer_radius_angstrom": 18.9053,
+    "limiting_atom_1": {
+      "index": 35,
+      "element": "Br"
+    },
+    "limiting_atom_2": {
+      "index": 602,
+      "element": "Br"
+    },
+    "num_atoms": 660,
+    "cage_name": "PdII__C8-2__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C8-2",
+    "node": "PdII",
+    "linker": "C8-2",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C8-2__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 16.8077,
+    "outer_radius_angstrom": 8.4039,
+    "limiting_atom_1": {
+      "index": 79,
+      "element": "Br"
+    },
+    "limiting_atom_2": {
+      "index": 106,
+      "element": "Br"
+    },
+    "num_atoms": 110,
+    "cage_name": "PdII__C8-2__M2L4_lantern__Q+4",
+    "system_key": "PdII__C8-2",
+    "node": "PdII",
+    "linker": "C8-2",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C8-2__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 27.5873,
+    "outer_radius_angstrom": 13.7937,
+    "limiting_atom_1": {
+      "index": 245,
+      "element": "Br"
+    },
+    "limiting_atom_2": {
+      "index": 326,
+      "element": "Br"
+    },
+    "num_atoms": 330,
+    "cage_name": "PdII__C8-2__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C8-2",
+    "node": "PdII",
+    "linker": "C8-2",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C8-3__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 38.6828,
+    "outer_radius_angstrom": 19.3414,
+    "limiting_atom_1": {
+      "index": 207,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 306,
+      "element": "H"
+    },
+    "num_atoms": 804,
+    "cage_name": "PdII__C8-3__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C8-3",
+    "node": "PdII",
+    "linker": "C8-3",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C8-3__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 38.794,
+    "outer_radius_angstrom": 19.397,
+    "limiting_atom_1": {
+      "index": 44,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 737,
+      "element": "H"
+    },
+    "num_atoms": 804,
+    "cage_name": "PdII__C8-3__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C8-3",
+    "node": "PdII",
+    "linker": "C8-3",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C8-3__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 16.5366,
+    "outer_radius_angstrom": 8.2683,
+    "limiting_atom_1": {
+      "index": 32,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 65,
+      "element": "H"
+    },
+    "num_atoms": 134,
+    "cage_name": "PdII__C8-3__M2L4_lantern__Q+4",
+    "system_key": "PdII__C8-3",
+    "node": "PdII",
+    "linker": "C8-3",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C8-3__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 28.4617,
+    "outer_radius_angstrom": 14.2309,
+    "limiting_atom_1": {
+      "index": 300,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 399,
+      "element": "H"
+    },
+    "num_atoms": 402,
+    "cage_name": "PdII__C8-3__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C8-3",
+    "node": "PdII",
+    "linker": "C8-3",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C9-1__M12L24_cuboctaeder__Q+24": {
+    "outer_diameter_angstrom": 38.541,
+    "outer_radius_angstrom": 19.2705,
+    "limiting_atom_1": {
+      "index": 287,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 392,
+      "element": "H"
+    },
+    "num_atoms": 852,
+    "cage_name": "PdII__C9-1__M12L24_cuboctaeder__Q+24",
+    "system_key": "PdII__C9-1",
+    "node": "PdII",
+    "linker": "C9-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder",
+    "assembly_model": "M12L24 (Oh)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C9-1__M12L24_cuboctaeder_d3h__Q+24": {
+    "outer_diameter_angstrom": 38.6329,
+    "outer_radius_angstrom": 19.3164,
+    "limiting_atom_1": {
+      "index": 255,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 497,
+      "element": "H"
+    },
+    "num_atoms": 852,
+    "cage_name": "PdII__C9-1__M12L24_cuboctaeder_d3h__Q+24",
+    "system_key": "PdII__C9-1",
+    "node": "PdII",
+    "linker": "C9-1",
+    "metal_count": 12,
+    "linker_count": 24,
+    "ml2_units": 12,
+    "model_key": "cuboctaeder_d3h",
+    "assembly_model": "M12L24 (D3h)",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C9-1__M2L4_lantern__Q+4": {
+    "outer_diameter_angstrom": 17.5713,
+    "outer_radius_angstrom": 8.7857,
+    "limiting_atom_1": {
+      "index": 102,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 137,
+      "element": "H"
+    },
+    "num_atoms": 142,
+    "cage_name": "PdII__C9-1__M2L4_lantern__Q+4",
+    "system_key": "PdII__C9-1",
+    "node": "PdII",
+    "linker": "C9-1",
+    "metal_count": 2,
+    "linker_count": 4,
+    "ml2_units": 2,
+    "model_key": "lantern",
+    "assembly_model": "M2L4",
+    "source_file": "xtb_opt.xyz"
+  },
+  "PdII__C9-1__M6L12_octaeder__Q+12": {
+    "outer_diameter_angstrom": 28.1128,
+    "outer_radius_angstrom": 14.0564,
+    "limiting_atom_1": {
+      "index": 36,
+      "element": "H"
+    },
+    "limiting_atom_2": {
+      "index": 211,
+      "element": "H"
+    },
+    "num_atoms": 426,
+    "cage_name": "PdII__C9-1__M6L12_octaeder__Q+12",
+    "system_key": "PdII__C9-1",
+    "node": "PdII",
+    "linker": "C9-1",
+    "metal_count": 6,
+    "linker_count": 12,
+    "ml2_units": 6,
+    "model_key": "octaeder",
+    "assembly_model": "M6L12",
+    "source_file": "xtb_opt.xyz"
+  }
+}
