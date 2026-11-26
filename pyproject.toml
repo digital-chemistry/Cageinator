@@ -23,6 +23,9 @@ dependencies = [
   "flask",
 ]
 
+[project.optional-dependencies]
+cats = ["numpy", "scipy", "matplotlib"]
+
 [project.scripts]
 cageinator = "cageinator:main"
 
