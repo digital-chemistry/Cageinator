@@ -1,5 +1,9 @@
 # The Cageinator
-A tool for automatically constructing and screening metal-organic cages from linker and node building blocks
+A tool for automatically constructing and screening coordination cages from linker and node building blocks
+
+The repository holds three things: the **Cageinator** code (this directory), the **CATS** analysis scripts (`cats/`), and the **data** of the manuscript
+*High-Throughput Construction and Optimisation of Coordination Cages* (`data/`): the input linkers and node, and the 187 constructed and
+GFN-FF-optimised Pd(II) cages with their energies. See [Optimised structures](#optimised-structures) below.
 
 ---
 
@@ -23,8 +27,8 @@ Since this tool is primarily developed for UNIX-based operating systems such as 
 
 At a directory of choice:
 
-    git clone https://github.com/JanL80/cageinator
-    cd ./cageinator
+    git clone https://github.com/digital-chemistry/Cageinator
+    cd ./Cageinator
     pip install .
 
 ---
@@ -230,6 +234,34 @@ Within each assembly subfolder, optimization outputs may include:
 
 ---
 
+## Optimised structures
+
+`data/` contains the cages of the manuscript. The Pd(II) node (`data/nodes/`) and the 53 ditopic linkers (`data/linkers/`) were combined in the four
+assembly models, giving 212 combinations, of which 187 passed the geometric screening:
+
+| Assembly model | Cages |
+|---|---|
+| (4-planar)<sub>2</sub>(2-bent)<sub>4</sub>-D<sub>4h</sub> (lantern) | 42 |
+| (4-planar)<sub>6</sub>(2-bent)<sub>12</sub>-O<sub>h</sub> (octahedron) | 46 |
+| (4-planar)<sub>12</sub>(2-bent)<sub>24</sub>-O<sub>h</sub> (cuboctahedron) | 50 |
+| (4-planar)<sub>12</sub>(2-bent)<sub>24</sub>-D<sub>3h</sub> (cuboctahedron) | 49 |
+
+Every cage has its own folder in `data/assemblies/` with the constructed structure (`.mol`), the GFN-FF optimised structure (`xtb_opt.xyz`) and the xTB
+log of the GFN-FF/GBSA(water) energy. `data/optimised_structures.csv` lists all cages with linker, assembly model, charge, number of atoms and energy.
+Details are in [data/README.md](data/README.md).
+
+## CATS: analysis of the assemblies
+
+The scripts in `cats/` analyse the optimised cages: Pd–N distances and N–Pd–N angles, outer diameter, pore and cavity size, and the energies of the assembly
+models. For example,
+
+    pip install .[cats]
+    python -m cats.bond_analysis --dir data
+
+writes the results to `data/evaluation/bond_analysis/`. See [cats/README.md](cats/README.md).
+
+---
+
 ## Exit codes
 
 - `0`: success
@@ -266,7 +298,7 @@ JSmol (and its parent project, Jmol) is free, open-source software distributed u
 If you use this software in academic work, please cite in this style:
 
 
-**Cageinator**: J. Leodolter, *cageinator* (Version X.Y.Z), GitHub: https://github.com/JanL80/cageinator, manuscript in preparation (2026).  
+**Cageinator and CATS**: J. Leodolter, A. Kondinski, *Cageinator* (Version X.Y.Z), GitHub: https://github.com/digital-chemistry/Cageinator, manuscript in preparation (2026).  
 
 <br/>
 
