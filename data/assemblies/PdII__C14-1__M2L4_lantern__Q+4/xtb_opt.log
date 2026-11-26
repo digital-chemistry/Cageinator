@@ -1,0 +1,365 @@
+      -----------------------------------------------------------      
+     |                   =====================                   |     
+     |                           x T B                           |     
+     |                   =====================                   |     
+     |                         S. Grimme                         |     
+     |          Mulliken Center for Theoretical Chemistry        |     
+     |                    University of Bonn                     |     
+      -----------------------------------------------------------      
+
+   * xtb version 6.7.1 (edcfbbe) compiled by 'albert@albert-system' on 2024-07-22
+
+   xtb is free software: you can redistribute it and/or modify it under
+   the terms of the GNU Lesser General Public License as published by
+   the Free Software Foundation, either version 3 of the License, or
+   (at your option) any later version.
+   
+   xtb is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU Lesser General Public License for more details.
+   
+   Cite this work as:
+   * C. Bannwarth, E. Caldeweyher, S. Ehlert, A. Hansen, P. Pracht,
+     J. Seibert, S. Spicher, S. Grimme, WIREs Comput. Mol. Sci., 2020, 11,
+     e01493. DOI: 10.1002/wcms.1493
+   
+   for GFN2-xTB:
+   * C. Bannwarth, S. Ehlert and S. Grimme., J. Chem. Theory Comput., 2019,
+     15, 1652-1671. DOI: 10.1021/acs.jctc.8b01176
+   for GFN1-xTB:
+   * S. Grimme, C. Bannwarth, P. Shushkov, J. Chem. Theory Comput., 2017,
+     13, 1989-2009. DOI: 10.1021/acs.jctc.7b00118
+   for GFN0-xTB:
+   * P. Pracht, E. Caldeweyher, S. Ehlert, S. Grimme, ChemRxiv, 2019, preprint.
+     DOI: 10.26434/chemrxiv.8326202.v1
+   for GFN-FF:
+   * S. Spicher and S. Grimme, Angew. Chem. Int. Ed., 2020, 59, 15665-15673.
+     DOI: 10.1002/anie.202004239
+   
+   for ALPB and GBSA implicit solvation:
+   * S. Ehlert, M. Stahn, S. Spicher, S. Grimme, J. Chem. Theory Comput.,
+     2021, 17, 4250-4261. DOI: 10.1021/acs.jctc.1c00471
+   
+   for ddCOSMO and CPCM-X implicit solvation:
+   * M. Stahn, S. Ehlert, S. Grimme, J. Phys. Chem. A,
+     2023, XX, XXXX-XXXX. DOI: 10.1021/acs.jpca.3c04382
+   
+   for DFT-D4:
+   * E. Caldeweyher, C. Bannwarth and S. Grimme, J. Chem. Phys., 2017,
+     147, 034112. DOI: 10.1063/1.4993215
+   * E. Caldeweyher, S. Ehlert, A. Hansen, H. Neugebauer, S. Spicher,
+     C. Bannwarth and S. Grimme, J. Chem. Phys., 2019, 150, 154122.
+     DOI: 10.1063/1.5090222
+   * E. Caldeweyher, J.-M. Mewes, S. Ehlert and S. Grimme, Phys. Chem. Chem. Phys.
+     2020, 22, 8499-8512. DOI: 10.1039/D0CP00502A
+   
+   for sTDA-xTB:
+   * S. Grimme and C. Bannwarth, J. Chem. Phys., 2016, 145, 054103.
+     DOI: 10.1063/1.4959605
+   
+   in the mass-spec context:
+   * V. Asgeirsson, C. Bauer and S. Grimme, Chem. Sci., 2017, 8, 4879.
+     DOI: 10.1039/c7sc00601b
+   * J. Koopman and S. Grimme, ACS Omega 2019, 4, 12, 15120-15133.
+     DOI: 10.1021/acsomega.9b02011
+   
+   for metadynamics refer to:
+   * S. Grimme, J. Chem. Theory Comput., 2019, 155, 2847-2862
+     DOI: 10.1021/acs.jctc.9b00143
+   
+   for SPH calculations refer to:
+   * S. Spicher and S. Grimme, J. Chem. Theory Comput., 2021, 17, 1701-1714
+     DOI: 10.1021/acs.jctc.0c01306
+   
+   for ONIOM refer to:
+   * C. Plett, A. Katbashev, S. Ehlert, S. Grimme, M. Bursch,
+     Phys. Chem. Chem. Phys., 2023, 25, 17860-17868. DOI: 10.1039/D3CP02178E
+   
+   for DIPRO refer to:
+   * J. Kohn, N. Gildemeister, S. Grimme, D. Fazzi, A. Hansen,
+     J. Chem. Phys., 2023, just accepted.
+   
+   for PTB refer to:
+   * S. Grimme, M. Mueller, A. Hansen, J. Chem. Phys., 2023, 158, 124111.
+     DOI: 10.1063/5.0137838
+   
+   with help from (in alphabetical order)
+   P. Atkinson, C. Bannwarth, F. Bohle, G. Brandenburg, E. Caldeweyher
+   M. Checinski, S. Dohm, S. Ehlert, S. Ehrlich, I. Gerasimov, C. Hölzer
+   A. Katbashev, J. Kohn, J. Koopman, C. Lavigne, S. Lehtola, F. März, M. Müller,
+   F. Musil, H. Neugebauer, J. Pisarek, C. Plett, P. Pracht, F. Pultar,
+   J. Seibert, P. Shushkov, S. Spicher, M. Stahn, M. Steiner, T. Strunk,
+   J. Stückrath, T. Rose, and J. Unsleber
+   
+ * started run on 2026/07/01 at 15:31:00.760     
+   ID    Z sym.   atoms
+    1   46 Pd     1, 2
+    2    7 N      3, 4, 18, 28, 30, 31, 45, 55, 57, 58, 72, 82, 84, 85, 99,
+                  109
+    3    1 H      5, 10, 14, 17, 19-21, 24, 27, 29, 32, 37, 41, 44, 46-48,
+                  51, 54, 56, 59, 64, 68, 71, 73-75, 78, 81, 83, 86, 91, 95,
+                  98, 100-102, 105, 108, 110
+    4    6 C      6-9, 11-13, 15, 16, 22, 23, 25, 26, 33-36, 38-40, 42, 43,
+                  49, 50, 52, 53, 60-63, 65-67, 69, 70, 76, 77, 79, 80,
+                  87-90, 92-94, 96, 97, 103, 104, 106, 107
+
+           -------------------------------------------------
+          |                Calculation Setup                |
+           -------------------------------------------------
+
+          program call               : xtb xtb_opt.xyz --chrg 4 --gfnff --gbsa water
+          coordinate file            : xtb_opt.xyz
+          omp threads                :                    16
+
+ 
+          ==================== Thresholds ====================
+          CN  :   150.00000
+          rep :   500.00000
+          disp:  2500.00000
+          HB1 :   250.00000
+          HB2 :   450.00000
+ 
+          Pauling EN used:
+          Z : 1  EN :  2.20
+          Z : 6  EN :  2.55
+          Z : 7  EN :  3.04
+          Z :46  EN :  2.20
+          electric field strengths (au): 0.000
+ 
+           ------------------------------------------------- 
+          |           Force Field Initialization            |
+           ------------------------------------------------- 
+ 
+          distances ...
+          ----------------------------------------
+          generating topology and atomic info file ...
+          pair mat ...
+          computing topology distances matrix with Floyd-Warshall algo ...
+          making topology EEQ charges ...
+          #fragments for EEQ constrain: 1
+          ----------------------------------------
+          generating topology and atomic info file ...
+          pair mat ...
+          computing topology distances matrix with Floyd-Warshall algo ...
+          making topology EEQ charges ...
+          #fragments for EEQ constrain: 1
+          rings ...
+          # BATM   1440
+          # H in HB   40
+          doing iterative Hueckel for 4 subsystem(s) ...
+ 
+  atom   neighbors  erfCN metchar sp-hybrid imet pi  qest     coordinates
+    1  Pd      4    3.37   0.04         3    2    0   0.335   -0.000005    0.000137    8.753177
+    2  Pd      4    3.36   0.03         3    2    0   0.334    0.000019    0.000051   -8.643868
+    3  N       3    2.98   0.00         3    0    1  -0.005    8.949137   -0.143876   -2.056289
+    4  N       2    2.04   0.00         2    0    1  -0.126    7.474516    0.893536   -0.313148
+    5  H       1    0.97   0.00         0    0    0   0.109   12.584184   -0.618732    2.869589
+    6  C       3    2.92   0.00         2    0    1   0.011   11.266102   -0.886946   -1.019818
+    7  C       3    3.01   0.00         2    0    1   0.068    8.710349    0.802154    1.863830
+    8  C       3    2.83   0.00         2    0    1   0.041    7.605438   -0.977522   -4.301140
+    9  C       3    2.90   0.00         2    0    1  -0.008   11.133738   -0.303647    1.468524
+   10  H       1    0.97   0.00         0    0    0   0.110   12.803393   -1.797646   -2.011952
+   11  C       3    2.82   0.00         2    0    1   0.024    7.318820    1.409993    4.170375
+   12  C       3    2.81   0.00         2    0    1  -0.011    7.802340    0.192969   -6.665595
+   13  C       3    2.87   0.00         2    0    1   0.018    3.569554   -2.530030   -5.567316
+   14  H       1    0.98   0.00         0    0    0   0.106    1.505233    3.659369    5.287788
+   15  C       3    2.83   0.00         2    0    1   0.018    5.850568   -0.003710   -8.365669
+   16  C       3    2.82   0.00         2    0    1  -0.011    5.488296   -2.476914   -3.854719
+   17  H       1    0.97   0.00         0    0    0   0.106    5.966200    0.875860  -10.202271
+   18  N       3    2.72   0.00         2    0    1  -0.148    3.679789   -1.198285   -7.740562
+   19  H       1    0.97   0.00         0    0    0   0.114    9.452390    1.307079   -7.099249
+   20  H       1    0.98   0.00         0    0    0   0.106    1.866000   -3.532110   -5.120982
+   21  H       1    0.97   0.00         0    0    0   0.114    5.303903   -3.420867   -2.063454
+   22  C       3    2.81   0.00         2    0    1  -0.011    7.746652    0.382275    6.584563
+   23  C       3    2.88   0.00         2    0    1   0.017    3.290120    2.787115    5.667105
+   24  H       1    0.97   0.00         0    0    0   0.106    6.172715   -0.287206   10.245614
+   25  C       3    2.83   0.00         2    0    1   0.017    5.883157    0.501092    8.386639
+   26  C       3    2.82   0.00         2    0    1  -0.011    5.078728    2.761122    3.824417
+   27  H       1    0.97   0.00         0    0    0   0.113    4.715427    3.619420    2.016754
+   28  N       3    2.71   0.00         2    0    1  -0.150    3.591634    1.517448    7.865006
+   29  H       1    0.97   0.00         0    0    0   0.113    9.500872   -0.571999    6.981193
+   30  N       3    2.98   0.00         3    0    1  -0.005   -8.949241    0.143506   -2.056547
+   31  N       2    2.04   0.00         2    0    1  -0.126   -7.474515   -0.893728   -0.313385
+   32  H       1    0.97   0.00         0    0    0   0.109  -12.584312    0.618048    2.869359
+   33  C       3    2.92   0.00         2    0    1   0.011  -11.266289    0.886303   -1.020068
+   34  C       3    3.01   0.00         2    0    1   0.068   -8.710319   -0.802398    1.863612
+   35  C       3    2.83   0.00         2    0    1   0.041   -7.605582    0.977179   -4.301412
+   36  C       3    2.90   0.00         2    0    1  -0.008  -11.133842    0.303094    1.468290
+   37  H       1    0.97   0.00         0    0    0   0.110  -12.803699    1.796799   -2.012207
+   38  C       3    2.82   0.00         2    0    1   0.024   -7.318707   -1.410058    4.170144
+   39  C       3    2.81   0.00         2    0    1  -0.011   -7.802331   -0.193457   -6.665809
+   40  C       3    2.87   0.00         2    0    1   0.018   -3.569832    2.530006   -5.567575
+   41  H       1    0.98   0.00         0    0    0   0.106   -1.504952   -3.658907    5.287638
+   42  C       3    2.83   0.00         2    0    1   0.018   -5.850522    0.003297   -8.365830
+   43  C       3    2.82   0.00         2    0    1  -0.011   -5.488603    2.476813   -3.855005
+   44  H       1    0.97   0.00         0    0    0   0.106   -5.966006   -0.876403  -10.202379
+   45  N       3    2.72   0.00         2    0    1  -0.148   -3.679859    1.198088   -7.740720
+   46  H       1    0.97   0.00         0    0    0   0.114   -9.452238   -1.307807   -7.099402
+   47  H       1    0.98   0.00         0    0    0   0.106   -1.866295    3.532086   -5.121160
+   48  H       1    0.97   0.00         0    0    0   0.114   -5.304282    3.420758   -2.063728
+   49  C       3    2.81   0.00         2    0    1  -0.011   -7.746723   -0.382518    6.584373
+   50  C       3    2.88   0.00         2    0    1   0.017   -3.289900   -2.786773    5.666916
+   51  H       1    0.97   0.00         0    0    0   0.106   -6.172991    0.286924   10.245516
+   52  C       3    2.83   0.00         2    0    1   0.017   -5.883249   -0.501175    8.386485
+   53  C       3    2.82   0.00         2    0    1  -0.011   -5.078445   -2.760888    3.824173
+   54  H       1    0.97   0.00         0    0    0   0.113   -4.714987   -3.619073    2.016488
+   55  N       3    2.71   0.00         2    0    1  -0.150   -3.591588   -1.517232    7.864864
+   56  H       1    0.97   0.00         0    0    0   0.113   -9.501103    0.571449    6.981041
+   57  N       3    2.98   0.00         3    0    1  -0.005    0.070557    8.962576   -2.125476
+   58  N       2    2.04   0.00         2    0    1  -0.126   -0.939829    7.461412   -0.389490
+   59  H       1    0.97   0.00         0    0    0   0.109    0.450789   12.594296    2.811274
+   60  C       3    2.92   0.00         2    0    1   0.011    0.757789   11.293275   -1.081020
+   61  C       3    3.01   0.00         2    0    1   0.068   -0.879415    8.691528    1.791658
+   62  C       3    2.83   0.00         2    0    1   0.041    0.937389    7.635753   -4.368245
+   63  C       3    2.90   0.00         2    0    1  -0.008    0.169688   11.141632    1.405345
+   64  H       1    0.97   0.00         0    0    0   0.110    1.637096   12.852983   -2.066551
+   65  C       3    2.82   0.00         2    0    1   0.024   -1.459363    7.275994    4.088726
+   66  C       3    2.81   0.00         2    0    1  -0.011   -0.241857    7.801760   -6.731316
+   67  C       3    2.87   0.00         2    0    1   0.018    2.538026    3.610636   -5.612189
+   68  H       1    0.98   0.00         0    0    0   0.106   -3.502788    1.380900    5.181852
+   69  C       3    2.83   0.00         2    0    1   0.018   -0.026587    5.840653   -8.418154
+   70  C       3    2.82   0.00         2    0    1  -0.011    2.467522    5.541266   -3.913057
+   71  H       1    0.97   0.00         0    0    0   0.106   -0.912076    5.932646  -10.253265
+   72  N       3    2.72   0.00         2    0    1  -0.148    1.195528    3.689090   -7.780617
+   73  H       1    0.97   0.00         0    0    0   0.114   -1.379108    9.433907   -7.172839
+   74  H       1    0.98   0.00         0    0    0   0.106    3.550271    1.916820   -5.151185
+   75  H       1    0.97   0.00         0    0    0   0.114    3.411460    5.376711   -2.119367
+   76  C       3    2.81   0.00         2    0    1  -0.011   -0.521022    7.760478    6.527696
+   77  C       3    2.89   0.00         2    0    1   0.017   -2.702059    3.198164    5.568024
+   78  H       1    0.97   0.00         0    0    0   0.106    0.103975    6.236991   10.218460
+   79  C       3    2.83   0.00         2    0    1   0.017   -0.616731    5.904497    8.339358
+   80  C       3    2.82   0.00         2    0    1  -0.011   -2.697489    4.976775    3.716597
+   81  H       1    0.97   0.00         0    0    0   0.113   -3.487140    4.568131    1.888092
+   82  N       3    2.72   0.00         2    0    1  -0.150   -1.524151    3.570431    7.804762
+   83  H       1    0.97   0.00         0    0    0   0.113    0.343966    9.556723    6.940345
+   84  N       3    2.98   0.00         3    0    1  -0.005   -0.070935   -8.962180   -2.125310
+   85  N       2    2.04   0.00         2    0    1  -0.126    0.938827   -7.460641   -0.389340
+   86  H       1    0.97   0.00         0    0    0   0.109   -0.449165  -12.594619    2.810948
+   87  C       3    2.92   0.00         2    0    1   0.011   -0.757015  -11.293388   -1.081199
+   88  C       3    3.01   0.00         2    0    1   0.068    0.879176   -8.691102    1.791576
+   89  C       3    2.83   0.00         2    0    1   0.041   -0.937699   -7.635702   -4.368336
+   90  C       3    2.90   0.00         2    0    1  -0.008   -0.168856  -11.141694    1.405132
+   91  H       1    0.97   0.00         0    0    0   0.110   -1.635630  -12.853407   -2.066849
+   92  C       3    2.82   0.00         2    0    1   0.024    1.459220   -7.275630    4.088688
+   93  C       3    2.81   0.00         2    0    1  -0.011    0.241767   -7.801593   -6.731319
+   94  C       3    2.87   0.00         2    0    1   0.018   -2.538208   -3.610487   -5.612150
+   95  H       1    0.98   0.00         0    0    0   0.106    3.502679   -1.380532    5.181688
+   96  C       3    2.83   0.00         2    0    1   0.018    0.026356   -5.840465   -8.418127
+   97  C       3    2.82   0.00         2    0    1  -0.011   -2.467896   -5.541237   -3.913144
+   98  H       1    0.97   0.00         0    0    0   0.106    0.912104   -5.932319  -10.253125
+   99  N       3    2.72   0.00         2    0    1  -0.148   -1.195775   -3.688882   -7.780616
+  100  H       1    0.97   0.00         0    0    0   0.114    1.379297   -9.433551   -7.172928
+  101  H       1    0.98   0.00         0    0    0   0.106   -3.550226   -1.916612   -5.150766
+  102  H       1    0.97   0.00         0    0    0   0.114   -3.411674   -5.376640   -2.119357
+  103  C       3    2.81   0.00         2    0    1  -0.011    0.521026   -7.760147    6.527707
+  104  C       3    2.89   0.00         2    0    1   0.017    2.702060   -3.197829    5.567929
+  105  H       1    0.97   0.00         0    0    0   0.106   -0.103800   -6.236632   10.218496
+  106  C       3    2.83   0.00         2    0    1   0.017    0.616839   -5.904166    8.339364
+  107  C       3    2.82   0.00         2    0    1  -0.011    2.697287   -4.976405    3.716470
+  108  H       1    0.97   0.00         0    0    0   0.113    3.486650   -4.567738    1.887844
+  109  N       3    2.72   0.00         2    0    1  -0.150    1.524247   -3.570103    7.804721
+  110  H       1    0.97   0.00         0    0    0   0.113   -0.343958   -9.556388    6.940378
+ 
+          #atoms :   110
+          #bonds :   124
+          #angl  :   208
+          #tors  :   400
+          #nmol  :   1
+          #optfrag :   1
+           ------------------------------------------------- 
+          |                   G F N - F F                   |
+          |          A general generic force-field          |
+          |                  Version 1.0.3                  | 
+           ------------------------------------------------- 
+      * Solvation model:               GBSA
+        Solvent                        water
+        Parameter file                 internal GFN2-xTB/GBSA
+        Dielectric constant                8.0200E+01
+        Reference state                gsolv [1 M gas/solution]
+        Free energy shift                  1.8574E-03 Eh       1.1656E+00 kcal/mol
+        Temperature                        2.9815E+02 K
+        Density                            1.0000E+00 kg/L
+        Solvent mass                       1.8000E+01 g/mol
+        Interaction kernel             Still
+        Born radius scaling (c1)           1.5524E+00
+        Born radii integrator          GBOBC
+        Born offset                        2.4628E-02 a0       4.6540E-02 AA
+        H-bond correction              true
+        Ion screening                  false
+        Surface tension                    1.0000E-05 Eh       1.5569E+01 dyn/cm
+        Grid points                               230 per atom
+          Number of HB bonds (bound hydrogen)     179466
+          Number of HB bonds (unbound hydrogen)   11904
+          Number of XB bonds                      0
+
+ E+G (total)                   0 d,  0 h,  0 min,  0.017 sec
+ distance/D3 list               ...        0 min,  0.000 sec (  0.214%)
+ non bonded repulsion           ...        0 min,  0.000 sec (  1.293%)
+ dCN                            ...        0 min,  0.000 sec (  2.119%)
+ EEQ energy and q               ...        0 min,  0.000 sec (  1.470%)
+ D3                             ...        0 min,  0.001 sec (  3.054%)
+ EEQ gradient                   ...        0 min,  0.000 sec (  1.774%)
+ bonds                          ...        0 min,  0.000 sec (  1.774%)
+ bend and torsion               ...        0 min,  0.000 sec (  0.660%)
+ bonded ATM                     ...        0 min,  0.000 sec (  1.375%)
+ HB/XB (incl list setup)        ...        0 min,  0.013 sec ( 77.462%)
+ GBSA                           ...        0 min,  0.002 sec (  9.888%)
+
+         :::::::::::::::::::::::::::::::::::::::::::::::::::::
+         ::                     SUMMARY                     ::
+         :::::::::::::::::::::::::::::::::::::::::::::::::::::
+         :: total energy             -19.036544373507 Eh    ::
+         :: total w/o Gsolv          -18.379706484016 Eh    ::
+         :: total w/o Gsasa/hb       -19.007705791468 Eh    ::
+         :: gradient norm              0.060313722209 Eh/a0 ::
+         ::.................................................::
+         :: bond energy              -25.484999339061 Eh    ::
+         :: angle energy               0.067872572376 Eh    ::
+         :: torsion energy             0.115060367287 Eh    ::
+         :: repulsion energy           1.604842956181 Eh    ::
+         :: electrostat energy         5.538641241942 Eh    ::
+         :: dispersion energy         -0.154279637396 Eh    ::
+         :: HB energy                 -0.033344959660 Eh    ::
+         :: XB energy                  0.000000000000 Eh    ::
+         :: bonded atm energy         -0.033499685684 Eh    ::
+         :: external energy            0.000000000000 Eh    ::
+         :: -> Gsolv                  -0.656837889492 Eh    ::
+         ::    -> Gborn               -0.627999307453 Eh    ::
+         ::    -> Gsasa               -0.017288072937 Eh    ::
+         ::    -> Ghb                 -0.013407952229 Eh    ::
+         ::    -> Gshift               0.001857443127 Eh    ::
+         :: add. restraining           0.000000000000 Eh    ::
+         :: total charge               4.000000000000 e     ::
+         :::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+           -------------------------------------------------
+          |                Property Printout                |
+           -------------------------------------------------
+
+molecular dipole:
+                 x           y           z       tot (Debye)
+ q only:       -0.000       0.001       0.267       0.679
+
+           -------------------------------------------------
+          | TOTAL ENERGY              -19.036544373507 Eh   |
+          | GRADIENT NORM               0.060313722209 Eh/α |
+           -------------------------------------------------
+########################################################################
+[WARNING] Runtime exception occurred
+-1- gfnff_setup: Could not read topology file.
+########################################################################
+
+------------------------------------------------------------------------
+ * finished run on 2026/07/01 at 15:31:00.798     
+------------------------------------------------------------------------
+ total:
+ * wall-time:     0 d,  0 h,  0 min,  0.037 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.523 sec
+ * ratio c/w:    14.066 speedup
+ SCF:
+ * wall-time:     0 d,  0 h,  0 min,  0.018 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.272 sec
+ * ratio c/w:    14.802 speedup
+
+normal termination of xtb
